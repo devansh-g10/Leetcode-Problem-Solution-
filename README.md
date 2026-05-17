@@ -77,11 +77,13 @@ Devansh Maheshwari
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0206-reverse-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0141-linked-list-cycle/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
