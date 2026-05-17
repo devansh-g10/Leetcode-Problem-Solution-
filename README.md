@@ -77,6 +77,7 @@ Devansh Maheshwari
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0206-reverse-linked-list/) | Easy |
@@ -88,5 +89,10 @@ Devansh Maheshwari
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0206-reverse-linked-list/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
