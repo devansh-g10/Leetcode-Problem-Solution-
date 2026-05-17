@@ -95,4 +95,12 @@ Devansh Maheshwari
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0002-add-two-numbers/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0020-valid-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
