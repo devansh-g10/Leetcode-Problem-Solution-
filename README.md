@@ -57,6 +57,7 @@ Devansh Maheshwari
 | [0150-evaluate-reverse-polish-notation](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0654-maximum-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1306-jump-game-iii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1345-jump-game-iv/) | Hard |
 | [2540-minimum-common-value](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2540-minimum-common-value/) | Easy |
@@ -113,4 +114,21 @@ Devansh Maheshwari
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0654-maximum-binary-tree/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0654-maximum-binary-tree/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0654-maximum-binary-tree/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0654-maximum-binary-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0654-maximum-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
