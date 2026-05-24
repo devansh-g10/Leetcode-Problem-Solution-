@@ -60,6 +60,7 @@ Devansh Maheshwari
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0654-maximum-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1306-jump-game-iii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1306-jump-game-iii/) | Medium |
+| [1340-jump-game-v](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1345-jump-game-iv/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2540-minimum-common-value](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2540-minimum-common-value/) | Easy |
@@ -156,4 +157,12 @@ Devansh Maheshwari
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1340-jump-game-v](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1340-jump-game-v/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1340-jump-game-v](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1340-jump-game-v/) | Hard |
 <!---LeetCode Topics End-->
