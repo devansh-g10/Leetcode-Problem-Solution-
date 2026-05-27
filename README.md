@@ -65,6 +65,7 @@ Devansh Maheshwari
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2540-minimum-common-value](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3025-find-the-number-of-ways-to-place-people-i/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -117,6 +118,7 @@ Devansh Maheshwari
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0002-add-two-numbers/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3025-find-the-number-of-ways-to-place-people-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,8 +174,17 @@ Devansh Maheshwari
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1340-jump-game-v](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1340-jump-game-v/) | Hard |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3025-find-the-number-of-ways-to-place-people-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1871-jump-game-vii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1871-jump-game-vii/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3025-find-the-number-of-ways-to-place-people-i/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3025-find-the-number-of-ways-to-place-people-i/) | Medium |
 <!---LeetCode Topics End-->
