@@ -75,6 +75,7 @@ Devansh Maheshwari
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@ Devansh Maheshwari
 | [2540-minimum-common-value](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2540-minimum-common-value/) | Easy |
 | [3161-block-placement-queries](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3161-block-placement-queries/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +123,7 @@ Devansh Maheshwari
 | [0148-sort-list](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0148-sort-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +200,7 @@ Devansh Maheshwari
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3025-find-the-number-of-ways-to-place-people-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,4 +241,5 @@ Devansh Maheshwari
 | [2126-destroying-asteroids](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 <!---LeetCode Topics End-->
