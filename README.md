@@ -152,6 +152,7 @@ Devansh Maheshwari
 | [0002-add-two-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0002-add-two-numbers/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0204-count-primes](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0204-count-primes/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0279-perfect-squares/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
@@ -167,6 +168,7 @@ Devansh Maheshwari
 | [0003-longest-substring-without-repeating-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0020-valid-parentheses/) | Easy |
+| [0227-basic-calculator-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0227-basic-calculator-ii/) | Medium |
 | [1871-jump-game-vii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1871-jump-game-vii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -180,6 +182,7 @@ Devansh Maheshwari
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0654-maximum-binary-tree/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Divide and Conquer
