@@ -65,6 +65,7 @@ Devansh Maheshwari
 | [1345-jump-game-iv](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1345-jump-game-iv/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -242,6 +243,7 @@ Devansh Maheshwari
 | ------- | ------- |
 | [0148-sort-list](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0148-sort-list/) | Medium |
 | [1340-jump-game-v](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1340-jump-game-v/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -289,6 +291,7 @@ Devansh Maheshwari
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2126-destroying-asteroids/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -311,4 +314,8 @@ Devansh Maheshwari
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
