@@ -238,6 +238,7 @@ Devansh Maheshwari
 | [1340-jump-game-v](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1871-jump-game-vii/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Sorting
@@ -259,6 +260,7 @@ Devansh Maheshwari
 | [1871-jump-game-vii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1871-jump-game-vii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3699-number-of-zigzag-arrays-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
