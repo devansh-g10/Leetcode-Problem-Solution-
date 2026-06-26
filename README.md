@@ -86,6 +86,7 @@ Devansh Maheshwari
 | [3689-maximum-total-subarray-value-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -125,6 +126,7 @@ Devansh Maheshwari
 | [3120-count-the-number-of-special-characters-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +203,7 @@ Devansh Maheshwari
 | [0148-sort-list](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0148-sort-list/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0654-maximum-binary-tree/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,6 +270,7 @@ Devansh Maheshwari
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,6 +291,7 @@ Devansh Maheshwari
 | [3161-block-placement-queries](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3161-block-placement-queries/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -296,6 +301,7 @@ Devansh Maheshwari
 | ------- | ------- |
 | [0148-sort-list](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0148-sort-list/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
