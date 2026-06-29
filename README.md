@@ -68,6 +68,7 @@ Devansh Maheshwari
 | [1833-maximum-ice-cream-bars](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2126-destroying-asteroids](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -185,6 +186,7 @@ Devansh Maheshwari
 | [0227-basic-calculator-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0227-basic-calculator-ii/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1871-jump-game-vii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1871-jump-game-vii/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
