@@ -76,6 +76,7 @@ Devansh Maheshwari
 | [2540-minimum-common-value](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3025-find-the-number-of-ways-to-place-people-i/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -98,6 +99,7 @@ Devansh Maheshwari
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [2540-minimum-common-value](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2540-minimum-common-value/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3161-block-placement-queries/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -114,6 +116,7 @@ Devansh Maheshwari
 | [0279-perfect-squares](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0279-perfect-squares/) | Medium |
 | [1306-jump-game-iii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1345-jump-game-iv/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -315,6 +318,7 @@ Devansh Maheshwari
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -338,6 +342,7 @@ Devansh Maheshwari
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -349,4 +354,8 @@ Devansh Maheshwari
 | [1189-maximum-number-of-balloons](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
