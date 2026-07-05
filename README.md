@@ -60,6 +60,7 @@ Devansh Maheshwari
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0204-count-primes](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0204-count-primes/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0654-maximum-binary-tree/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1345-jump-game-iv/) | Hard |
@@ -259,6 +260,7 @@ Devansh Maheshwari
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0279-perfect-squares/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1871-jump-game-vii/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -325,6 +327,7 @@ Devansh Maheshwari
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
