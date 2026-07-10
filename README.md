@@ -88,6 +88,7 @@ Devansh Maheshwari
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -107,6 +108,7 @@ Devansh Maheshwari
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3161-block-placement-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -166,6 +168,7 @@ Devansh Maheshwari
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2540-minimum-common-value/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Recursion
@@ -251,6 +254,7 @@ Devansh Maheshwari
 | ------- | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
@@ -270,6 +274,7 @@ Devansh Maheshwari
 | [1301-number-of-paths-with-max-score](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1871-jump-game-vii/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -288,6 +293,7 @@ Devansh Maheshwari
 | [2126-destroying-asteroids](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3025-find-the-number-of-ways-to-place-people-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Prefix Sum
@@ -348,6 +354,7 @@ Devansh Maheshwari
 | [2126-destroying-asteroids](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2126-destroying-asteroids/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -388,6 +395,7 @@ Devansh Maheshwari
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
