@@ -83,6 +83,7 @@ Devansh Maheshwari
 | [2540-minimum-common-value](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3025-find-the-number-of-ways-to-place-people-i/) | Medium |
@@ -367,6 +368,7 @@ Devansh Maheshwari
 | ------- | ------- |
 | [0204-count-primes](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0204-count-primes/) | Medium |
 | [1291-sequential-digits](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1291-sequential-digits/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3025-find-the-number-of-ways-to-place-people-i/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
