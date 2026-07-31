@@ -115,6 +115,7 @@ Devansh Maheshwari
 | [0033-search-in-rotated-sorted-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0633-sum-of-square-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [2540-minimum-common-value](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3161-block-placement-queries/) | Hard |
@@ -182,6 +183,7 @@ Devansh Maheshwari
 | [0019-remove-nth-node-from-end-of-list](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0148-sort-list/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -204,6 +206,7 @@ Devansh Maheshwari
 | [0227-basic-calculator-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0279-perfect-squares/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1840-maximum-building-height/) | Hard |
