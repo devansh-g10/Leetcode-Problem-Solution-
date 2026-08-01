@@ -59,6 +59,7 @@ Devansh Maheshwari
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0204-count-primes](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0204-count-primes/) | Medium |
+| [0486-predict-the-winner](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1260-shift-2d-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1260-shift-2d-grid/) | Easy |
@@ -200,6 +201,7 @@ Devansh Maheshwari
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0206-reverse-linked-list/) | Easy |
+| [0486-predict-the-winner](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0486-predict-the-winner/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +210,7 @@ Devansh Maheshwari
 | [0204-count-primes](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0204-count-primes/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0279-perfect-squares/) | Medium |
+| [0486-predict-the-winner](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -319,6 +322,7 @@ Devansh Maheshwari
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0279-perfect-squares/) | Medium |
+| [0486-predict-the-winner](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0486-predict-the-winner/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1871-jump-game-vii/) | Medium |
@@ -492,4 +496,8 @@ Devansh Maheshwari
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
