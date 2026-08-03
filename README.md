@@ -238,6 +238,7 @@ Devansh Maheshwari
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3765-complete-prime-number](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3765-complete-prime-number/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -387,6 +388,7 @@ Devansh Maheshwari
 | [3499-maximize-active-section-with-trade-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3765-complete-prime-number](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3765-complete-prime-number/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -407,6 +409,7 @@ Devansh Maheshwari
 | [3312-sorted-gcd-pair-queries](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3765-complete-prime-number](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3765-complete-prime-number/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
