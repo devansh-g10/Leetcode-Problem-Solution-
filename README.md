@@ -134,6 +134,7 @@ Devansh Maheshwari
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0226-invert-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1306-jump-game-iii/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -144,6 +145,7 @@ Devansh Maheshwari
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0226-invert-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0279-perfect-squares/) | Medium |
 | [1306-jump-game-iii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1345-jump-game-iv/) | Hard |
@@ -290,6 +292,7 @@ Devansh Maheshwari
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0226-invert-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0654-maximum-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -303,6 +306,7 @@ Devansh Maheshwari
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0226-invert-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0654-maximum-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Bit Manipulation
