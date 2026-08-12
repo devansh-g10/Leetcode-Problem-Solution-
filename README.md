@@ -154,6 +154,7 @@ Devansh Maheshwari
 | ------- | ------- |
 | [0100-same-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0279-perfect-squares/) | Medium |
@@ -310,6 +311,7 @@ Devansh Maheshwari
 | ------- | ------- |
 | [0100-same-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0226-invert-binary-tree/) | Easy |
@@ -328,6 +330,7 @@ Devansh Maheshwari
 | ------- | ------- |
 | [0100-same-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0226-invert-binary-tree/) | Easy |
