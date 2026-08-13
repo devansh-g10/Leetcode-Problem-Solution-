@@ -142,6 +142,7 @@ Devansh Maheshwari
 | [0100-same-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1306-jump-game-iii/) | Medium |
@@ -157,6 +158,7 @@ Devansh Maheshwari
 | [0101-symmetric-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0279-perfect-squares/) | Medium |
 | [1306-jump-game-iii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1306-jump-game-iii/) | Medium |
@@ -316,6 +318,7 @@ Devansh Maheshwari
 | [0102-binary-tree-level-order-traversal](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -335,6 +338,7 @@ Devansh Maheshwari
 | [0102-binary-tree-level-order-traversal](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0654-maximum-binary-tree/) | Medium |
