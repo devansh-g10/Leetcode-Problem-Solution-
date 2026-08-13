@@ -25,11 +25,12 @@ class Solution {
             int size = dq.size();
             for(int i = 0;i < size ; i++){
                 TreeNode node = dq.poll();
-                level.add(node.val);
+                if(i == size-1){
+                    arr.add(node.val);
+                }
                 if(node.left != null) dq.offer(node.left);
                 if(node.right != null) dq.offer(node.right);
             }
-            arr.add(level.get(level.size() - 1));
         }
         return arr;
     }
