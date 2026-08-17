@@ -78,6 +78,7 @@ Devansh Maheshwari
 | [1340-jump-game-v](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1345-jump-game-iv/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1563-stone-game-v](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1563-stone-game-v/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -257,6 +258,7 @@ Devansh Maheshwari
 | [1140-stone-game-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1140-stone-game-ii/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1563-stone-game-v](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1563-stone-game-v/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1840-maximum-building-height](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -392,6 +394,7 @@ Devansh Maheshwari
 | [1140-stone-game-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1340-jump-game-v/) | Hard |
+| [1563-stone-game-v](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1563-stone-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1871-jump-game-vii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -580,6 +583,7 @@ Devansh Maheshwari
 | [0486-predict-the-winner](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1140-stone-game-ii/) | Medium |
+| [1563-stone-game-v](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
