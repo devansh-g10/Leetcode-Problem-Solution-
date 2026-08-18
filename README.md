@@ -64,6 +64,7 @@ Devansh Maheshwari
 | [0162-find-peak-element](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0162-find-peak-element/) | Medium |
 | [0204-count-primes](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0204-count-primes/) | Medium |
 | [0486-predict-the-winner](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0486-predict-the-winner/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0704-binary-search](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0704-binary-search/) | Easy |
@@ -136,6 +137,7 @@ Devansh Maheshwari
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0162-find-peak-element/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0875-koko-eating-bananas/) | Medium |
