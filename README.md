@@ -111,6 +111,7 @@ Devansh Maheshwari
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -208,6 +209,7 @@ Devansh Maheshwari
 | [3120-count-the-number-of-special-characters-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3731-find-missing-elements/) | Easy |
