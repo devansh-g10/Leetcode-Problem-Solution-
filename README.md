@@ -161,6 +161,7 @@ Devansh Maheshwari
 | [0110-balanced-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -300,6 +301,7 @@ Devansh Maheshwari
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0020-valid-parentheses/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0257-binary-tree-paths](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0257-binary-tree-paths/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -347,6 +349,7 @@ Devansh Maheshwari
 | [0110-balanced-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -370,6 +373,7 @@ Devansh Maheshwari
 | [0110-balanced-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -547,6 +551,7 @@ Devansh Maheshwari
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0257-binary-tree-paths](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0257-binary-tree-paths/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
