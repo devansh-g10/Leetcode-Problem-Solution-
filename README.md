@@ -156,6 +156,7 @@ Devansh Maheshwari
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0110-balanced-binary-tree/) | Easy |
@@ -343,6 +344,7 @@ Devansh Maheshwari
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -368,6 +370,7 @@ Devansh Maheshwari
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -624,4 +627,8 @@ Devansh Maheshwari
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2029-stone-game-ix/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
