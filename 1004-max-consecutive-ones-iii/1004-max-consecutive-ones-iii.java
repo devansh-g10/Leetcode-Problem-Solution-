@@ -14,7 +14,9 @@ class Solution {
                 }
                 s++;
             }
-            max = Math.max(e - s + 1, max);
+            if(max < (e - s + 1)){
+                max = e - s + 1;
+            }
             e++;
         }
         return max;
