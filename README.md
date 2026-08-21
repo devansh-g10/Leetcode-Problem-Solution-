@@ -70,6 +70,7 @@ Devansh Maheshwari
 | [0704-binary-search](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0877-stone-game/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1260-shift-2d-grid/) | Easy |
@@ -203,6 +204,7 @@ Devansh Maheshwari
 | [0003-longest-substring-without-repeating-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0141-linked-list-cycle](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0141-linked-list-cycle/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -409,6 +411,7 @@ Devansh Maheshwari
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1871-jump-game-vii/) | Medium |
