@@ -7,7 +7,7 @@ class Solution {
         int t = 0;
         while(e < fruits.length){
             arr.put(fruits[e], arr.getOrDefault(fruits[e], 0) + 1);
-            while(arr.size() > 2){
+            if(arr.size() > 2){
                 arr.put(fruits[s], arr.get(fruits[s]) - 1);
                 if(arr.get(fruits[s]) ==  0){
                     arr.remove(fruits[s]);
