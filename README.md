@@ -82,6 +82,7 @@ Devansh Maheshwari
 | [1340-jump-game-v](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1345-jump-game-iv/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1563-stone-game-v](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1563-stone-game-v/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -148,6 +149,7 @@ Devansh Maheshwari
 | [0875-koko-eating-bananas](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2540-minimum-common-value](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3161-block-placement-queries/) | Hard |
