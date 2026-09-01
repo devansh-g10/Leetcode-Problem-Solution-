@@ -58,6 +58,7 @@ Devansh Maheshwari
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0040-combination-sum-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -593,6 +594,7 @@ Devansh Maheshwari
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0039-combination-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0040-combination-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0257-binary-tree-paths/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
