@@ -176,6 +176,7 @@ Devansh Maheshwari
 | [0110-balanced-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0133-clone-graph](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0257-binary-tree-paths/) | Easy |
@@ -200,6 +201,7 @@ Devansh Maheshwari
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0112-path-sum/) | Easy |
+| [0133-clone-graph](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0279-perfect-squares/) | Medium |
@@ -220,6 +222,7 @@ Devansh Maheshwari
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0133-clone-graph](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0133-clone-graph/) | Medium |
 | [0141-linked-list-cycle](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -633,6 +636,7 @@ Devansh Maheshwari
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0133-clone-graph/) | Medium |
 | [0547-number-of-provinces](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
