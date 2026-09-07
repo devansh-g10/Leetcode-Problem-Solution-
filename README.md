@@ -59,6 +59,7 @@ Devansh Maheshwari
 | [0035-search-insert-position](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0040-combination-sum-ii/) | Medium |
+| [0079-word-search](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -170,6 +171,7 @@ Devansh Maheshwari
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0101-symmetric-tree/) | Easy |
@@ -336,6 +338,7 @@ Devansh Maheshwari
 | [0003-longest-substring-without-repeating-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0020-valid-parentheses/) | Easy |
+| [0079-word-search](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0079-word-search/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0257-binary-tree-paths/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -561,6 +564,7 @@ Devansh Maheshwari
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0079-word-search/) | Medium |
 | [1260-shift-2d-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -610,6 +614,7 @@ Devansh Maheshwari
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0039-combination-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0040-combination-sum-ii/) | Medium |
+| [0079-word-search](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0079-word-search/) | Medium |
 | [0257-binary-tree-paths](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0257-binary-tree-paths/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
