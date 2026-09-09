@@ -1,69 +1,45 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
-        Queue<Integer> q = new ArrayDeque<>();
-        int counter = 0;
-        int fresh = 0;
         int rows = grid.length;
         int cols = grid[0].length;
-        
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-
-                if (grid[i][j] == 1) {
+        Queue<int[]> q = new ArrayDeque<>();
+        int fresh = 0;
+        for(int i = 0 ; i<rows;i++){
+            for(int j = 0;j<cols;j++){
+                if(grid[i][j]==2){
+                    q.offer(new int[]{i,j});
+                }
+                else if(grid[i][j] == 1){
                     fresh++;
                 }
-
-                if (grid[i][j] == 2) {
-                    q.add(i * cols + j);
-                }
             }
         }
-
-        // BFS
-        while (!q.isEmpty() && fresh > 0) {
+        if(fresh == 0){
+            return 0;
+        }
+        int minutes = -1;
+        while(!q.isEmpty()){
             int size = q.size();
-            for (int i = 0; i < size; i++) {
-                int current = q.poll();
-                int row = current / cols;
-                int col = current % cols;
+            for(int k = 0 ; k < size;k++){
+                int[] curr = q.poll();
+                int cr = curr[0];
+                int cc = curr[1];
+                int dir[][] = {{1,0},{-1,0},{0,1},{0,-1}};
 
-                // Up
-                if (row > 0 && grid[row - 1][col] == 1) {
-                    grid[row - 1][col] = 2;
-                    fresh--;
-                    q.add((row - 1) * cols + col);
-                }
+                for(int i = 0;i<dir.length;i++){
+                    int nr = cr + dir[i][0];
+                    int nc = cc + dir[i][1];
 
-                // Down
-                if (row < rows - 1 && grid[row + 1][col] == 1) {
-                    grid[row + 1][col] = 2;
-                    fresh--;
-                    q.add((row + 1) * cols + col);
-                }
+                    if(nr>=0 && nr<rows && nc>=0 && nc<cols && grid[nr][nc] == 1){
+                        grid[nr][nc] = 2;
+                        fresh--;
+                        q.offer(new int[]{nr,nc});
 
-                // Left
-                if (col > 0 && grid[row][col - 1] == 1) {
-                    grid[row][col - 1] = 2;
-                    fresh--;
-                    q.add(row * cols + (col - 1));
-                }
-
-                // Right
-                if (col < cols - 1 && grid[row][col + 1] == 1) {
-                    grid[row][col + 1] = 2;
-                    fresh--;
-                    q.add(row * cols + (col + 1));
+                    }
                 }
             }
-
-            counter++;
+            minutes++;
         }
-
-        // If fresh oranges are still present
-        if (fresh > 0) {
-            return -1;
-        }
-
-        return counter;
+        return fresh == 0 ? minutes : -1;
     }
 }
