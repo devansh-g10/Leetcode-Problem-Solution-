@@ -1,52 +1,34 @@
-\# Coding Practice Repository
+# Coding Practice Repository
 
+This repository contains my coding practice work and is focused on improving my programming and problem-solving skills.
 
+## What You Will Find Here
 
-This repository is created to store my coding practice work and improve my programming skills.
+* Clean and understandable code
+* Solutions with proper logic and explanations
+* Practice problems for strengthening programming concepts
+* Data Structures and Algorithms practice
 
+## Technologies
 
+* Java
+* Python
+* Git & GitHub
 
-\## What you will find here
+## Objective
 
-\- Clean and understandable code
+* Strengthen problem-solving skills
+* Improve programming and coding logic
+* Practice Data Structures and Algorithms
+* Prepare for technical interviews
 
-\- Solutions written with proper logic
+## Usage
 
-\- Practice problems for better understanding
+You can explore the code files, run them in your preferred IDE, and use them for learning and practice.
 
+## Maintained By
 
-
-\## Technologies
-
-\- Java
-
-\- Python
-
-\- Git \& GitHub
-
-
-
-\## Objective
-
-\- Strengthen problem-solving skills
-
-\- Improve coding logic
-
-\- Prepare for technical interviews
-
-
-
-\## Usage
-
-You can explore the code files, run them in your IDE, and use them for learning and practice.
-
-
-
-\## Maintained by
-
-Devansh Maheshwari
-
-
+**Devansh Maheshwari**
 
 
 <!---LeetCode Topics Start-->
