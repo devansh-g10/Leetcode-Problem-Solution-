@@ -2,7 +2,6 @@ class Solution {
     public int totalNumbers(int[] digits) {
         List<Integer> result = new ArrayList<>();
         int[] freq = new int[10];
-
         for (int digit : digits) {
             freq[digit]++;
         }
@@ -15,7 +14,7 @@ class Solution {
                 if (freq[j] == 0) continue;
                 freq[j]--;
 
-                for (int k = 0; k <= 8; k += 2) { // Only even digits
+                for (int k = 0; k <= 8; k += 2) { 
                     if (freq[k] == 0) continue;
                     freq[k]--;
 
@@ -30,13 +29,13 @@ class Solution {
 
             freq[i]++;
         }
-        int[] resArr = new int[result.size()];
-        int count = 0;
-        for (int i = 0; i < result.size(); i++) {
-            resArr[i] = result.get(i);
-            count++;
-        }
+        // int[] resArr = new int[result.size()];
+        // int count = 0;
+        // for (int i = 0; i < result.size(); i++) {
+        //     resArr[i] = result.get(i);
+        //     count++;
+        // }
 
-        return count;
+        return result.size();
     }
 }
