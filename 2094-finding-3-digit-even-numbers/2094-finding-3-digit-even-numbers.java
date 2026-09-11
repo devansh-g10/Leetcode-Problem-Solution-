@@ -15,17 +15,13 @@ class Solution {
                 }
             }
         }
-        // Set ki sabhi values Array list ke andar store ho jayegi kyuki set ko sort karna 
-        //complicated ho jata hai but list ko sort kar skte hai isliye humne set ki values 
-        // List mai store kra li hai
-        List<Integer> resultList = new ArrayList<>(set);
-        Collections.sort(resultList);
-        int m = resultList.size();
-        // humko return array mai karna hai to list ke sabhi elements array mai daal denge
-        int[] result = new int[m];
-        for(int i = 0;i<m;i++){
-            result[i] = resultList.get(i);
+        int[] result = new int[set.size()];
+        int i = 0;
+        for(int a : set){
+            result[i] = a;
+            i++;
         }
+        Arrays.sort(result);
         return result;
     }
 }
