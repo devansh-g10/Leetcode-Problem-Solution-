@@ -54,6 +54,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0628-maximum-product-of-three-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0704-binary-search](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0704-binary-search/) | Easy |
+| [0835-image-overlap](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0835-image-overlap/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -572,6 +573,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0079-word-search/) | Medium |
+| [0835-image-overlap](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1260-shift-2d-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1260-shift-2d-grid/) | Easy |
