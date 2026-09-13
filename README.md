@@ -45,6 +45,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0078-subsets](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0090-subsets-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0090-subsets-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -436,6 +437,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0090-subsets-ii/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -630,6 +632,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0046-permutations](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0079-word-search/) | Medium |
+| [0090-subsets-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0090-subsets-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0257-binary-tree-paths/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
