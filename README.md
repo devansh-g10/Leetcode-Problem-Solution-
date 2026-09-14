@@ -297,6 +297,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0486-predict-the-winner](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0836-rectangle-overlap](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1140-stone-game-ii/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -528,6 +529,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0836-rectangle-overlap/) | Easy |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3025-find-the-number-of-ways-to-place-people-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
