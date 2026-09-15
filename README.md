@@ -50,6 +50,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0162-find-peak-element/) | Medium |
+| [0198-house-robber](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0204-count-primes/) | Medium |
 | [0486-predict-the-winner](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0486-predict-the-winner/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -466,6 +467,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0070-climbing-stairs/) | Easy |
+| [0198-house-robber](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0198-house-robber/) | Medium |
 | [0279-perfect-squares](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0279-perfect-squares/) | Medium |
 | [0486-predict-the-winner](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0877-stone-game/) | Medium |
