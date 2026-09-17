@@ -175,6 +175,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0133-clone-graph](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0207-course-schedule](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -204,6 +205,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0133-clone-graph](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0207-course-schedule](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0279-perfect-squares/) | Medium |
 | [0547-number-of-provinces](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0547-number-of-provinces/) | Medium |
@@ -675,6 +677,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -694,6 +697,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0210-course-schedule-ii/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
