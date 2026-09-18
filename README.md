@@ -297,6 +297,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0204-count-primes](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0204-count-primes/) | Medium |
@@ -472,6 +473,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0198-house-robber/) | Medium |
 | [0279-perfect-squares](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0279-perfect-squares/) | Medium |
@@ -702,6 +704,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0062-unique-paths/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Game Theory
