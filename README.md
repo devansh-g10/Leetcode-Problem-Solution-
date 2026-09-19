@@ -313,6 +313,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [1140-stone-game-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1140-stone-game-ii/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1563-stone-game-v](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1563-stone-game-v/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1840-maximum-building-height](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1840-maximum-building-height/) | Hard |
@@ -546,6 +547,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3025-find-the-number-of-ways-to-place-people-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
