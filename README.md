@@ -42,6 +42,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0039-combination-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0046-permutations/) | Medium |
+| [0063-unique-paths-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0078-subsets](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -474,6 +475,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0198-house-robber/) | Medium |
 | [0279-perfect-squares](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0279-perfect-squares/) | Medium |
@@ -592,6 +594,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0079-word-search](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0079-word-search/) | Medium |
 | [0835-image-overlap](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0994-rotting-oranges/) | Medium |
