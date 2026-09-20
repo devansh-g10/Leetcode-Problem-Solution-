@@ -370,6 +370,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3120-count-the-number-of-special-characters-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -633,6 +634,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1260-shift-2d-grid/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3838-weighted-word-mapping/) | Easy |
