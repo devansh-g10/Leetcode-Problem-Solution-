@@ -79,6 +79,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1563-stone-game-v](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1563-stone-game-v/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -154,6 +155,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [1004-max-consecutive-ones-iii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2498-frog-jump-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2498-frog-jump-ii/) | Medium |
 | [2540-minimum-common-value](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -238,6 +240,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [1331-rank-transform-of-an-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2540-minimum-common-value/) | Easy |
@@ -474,6 +477,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0904-fruit-into-baskets](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1871-jump-game-vii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1871-jump-game-vii/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -538,6 +542,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [1004-max-consecutive-ones-iii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1140-stone-game-ii/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1872-stone-game-viii/) | Hard |
