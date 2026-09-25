@@ -55,6 +55,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0204-count-primes](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0204-count-primes/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0486-predict-the-winner](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0486-predict-the-winner/) | Medium |
+| [0494-target-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0494-target-sum/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -493,6 +494,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0279-perfect-squares](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0279-perfect-squares/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0486-predict-the-winner](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0486-predict-the-winner/) | Medium |
+| [0494-target-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0494-target-sum/) | Medium |
 | [0877-stone-game](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -671,6 +673,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0079-word-search](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0090-subsets-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0257-binary-tree-paths/) | Easy |
+| [0494-target-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0494-target-sum/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -769,4 +772,12 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0207-course-schedule/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0494-target-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
