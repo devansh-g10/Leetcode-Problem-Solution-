@@ -372,6 +372,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [1189-maximum-number-of-balloons](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1871-jump-game-vii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1871-jump-game-vii/) | Medium |
 | [1927-sum-game](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1927-sum-game/) | Medium |
@@ -403,6 +404,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0654-maximum-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -789,4 +791,5 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
