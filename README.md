@@ -234,6 +234,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0133-clone-graph](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0133-clone-graph/) | Medium |
 | [0141-linked-list-cycle](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0141-linked-list-cycle/) | Easy |
@@ -306,6 +307,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0002-add-two-numbers/) | Medium |
+| [0013-roman-to-integer](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0070-climbing-stairs/) | Easy |
@@ -363,6 +365,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0020-valid-parentheses/) | Easy |
 | [0079-word-search](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0079-word-search/) | Medium |
