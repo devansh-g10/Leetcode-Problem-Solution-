@@ -370,6 +370,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0013-roman-to-integer](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0079-word-search/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0257-binary-tree-paths/) | Easy |
@@ -501,6 +502,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0022-generate-parentheses/) | Medium |
 | [0062-unique-paths](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0070-climbing-stairs/) | Easy |
@@ -681,6 +683,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0046-permutations/) | Medium |
@@ -799,6 +802,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
