@@ -375,6 +375,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0079-word-search](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0079-word-search/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0257-binary-tree-paths/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -411,6 +412,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0150-evaluate-reverse-polish-notation](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -514,6 +516,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0368-largest-divisible-subset](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0486-predict-the-winner](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0494-target-sum/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0740-delete-and-earn](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0740-delete-and-earn/) | Medium |
 | [0877-stone-game](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1140-stone-game-ii/) | Medium |
@@ -645,6 +648,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -807,6 +811,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0020-valid-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
