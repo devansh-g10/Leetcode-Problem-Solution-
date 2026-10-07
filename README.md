@@ -219,6 +219,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0210-course-schedule-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0279-perfect-squares/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -379,6 +380,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0115-distinct-subsequences](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0257-binary-tree-paths/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0856-score-of-parentheses/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -708,6 +710,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0079-word-search](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0090-subsets-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0257-binary-tree-paths/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0494-target-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0494-target-sum/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
