@@ -51,6 +51,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0162-find-peak-element/) | Medium |
+| [0174-dungeon-game](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0204-count-primes/) | Medium |
 | [0322-coin-change](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0322-coin-change/) | Medium |
@@ -517,6 +518,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0063-unique-paths-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0115-distinct-subsequences/) | Hard |
+| [0174-dungeon-game](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0198-house-robber/) | Medium |
 | [0279-perfect-squares](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0322-coin-change/) | Medium |
@@ -644,6 +646,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0079-word-search](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0079-word-search/) | Medium |
+| [0174-dungeon-game](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0174-dungeon-game/) | Hard |
 | [0835-image-overlap](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1020-number-of-enclaves/) | Medium |
