@@ -192,6 +192,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0543-diameter-of-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0684-redundant-connection](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0684-redundant-connection/) | Medium |
 | [0841-keys-and-rooms](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0841-keys-and-rooms/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1020-number-of-enclaves/) | Medium |
@@ -223,6 +224,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0322-coin-change](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0684-redundant-connection](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0684-redundant-connection/) | Medium |
 | [0841-keys-and-rooms](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0841-keys-and-rooms/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0994-rotting-oranges/) | Medium |
@@ -730,6 +732,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0684-redundant-connection/) | Medium |
 | [1020-number-of-enclaves](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -744,6 +747,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0207-course-schedule](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0684-redundant-connection/) | Medium |
 | [0841-keys-and-rooms](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
