@@ -319,6 +319,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0062-unique-paths/) | Medium |
