@@ -441,6 +441,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0148-sort-list/) | Medium |
+| [0191-number-of-1-bits](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0191-number-of-1-bits/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0654-maximum-binary-tree/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -500,6 +501,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | ------- | ------- |
 | [0078-subsets](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0090-subsets-ii/) | Medium |
+| [0191-number-of-1-bits](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0191-number-of-1-bits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
