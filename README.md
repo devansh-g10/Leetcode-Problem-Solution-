@@ -366,6 +366,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -700,6 +701,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3689-maximum-total-subarray-value-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
