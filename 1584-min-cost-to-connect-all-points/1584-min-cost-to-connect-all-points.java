@@ -38,8 +38,6 @@ class Solution {
     public int minCostConnectPoints(int[][] points) {
         int n = points.length;
         DSU dsu = new DSU(n);
-        
-        // Total number of edges = n * (n - 1) / 2
         int totalEdges = (n * (n - 1)) / 2;
         int[][] edges = new int[totalEdges][3];
         
@@ -53,8 +51,6 @@ class Solution {
                 idx++;
             }
         }
-        
-        // Sort edges based on cost/weight (Column 2)
         java.util.Arrays.sort(edges, (a, b) -> Integer.compare(a[2], b[2]));
         
         int minCost = 0;
