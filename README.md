@@ -82,6 +82,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1563-stone-game-v](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1563-stone-game-v/) | Hard |
+| [1584-min-cost-to-connect-all-points](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -758,6 +759,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0684-redundant-connection](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0684-redundant-connection/) | Medium |
 | [1020-number-of-enclaves](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -774,6 +776,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0684-redundant-connection](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0684-redundant-connection/) | Medium |
 | [0841-keys-and-rooms](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0841-keys-and-rooms/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -867,4 +870,20 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0322-coin-change/) | Medium |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Prim's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Kruskal's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Borůvka's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
