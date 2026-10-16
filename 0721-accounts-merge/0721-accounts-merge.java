@@ -8,7 +8,7 @@ class Solution {
         }
         int findUltimateParent(int node) {
             if (parent[node] == node) return node;
-            return parent[node] = findUltimateParent(parent[node]); // Path Compression
+            return parent[node] = findUltimateParent(parent[node]);
         }
         void unionByRank(int u, int v) {
             int pu = findUltimateParent(u);
@@ -27,8 +27,6 @@ class Solution {
         int n = accounts.size();
         DisjointSet ds = new DisjointSet(n);
         HashMap<String, Integer> map = new HashMap<>();
-
-        // Map emails to account indices and union connected accounts
         for (int i = 0; i < n; i++) {
             for (int j = 1; j < accounts.get(i).size(); j++) {
                 String mail = accounts.get(i).get(j);
@@ -39,22 +37,18 @@ class Solution {
                 }
             }
         }
-
-        // Group emails by their ultimate parent index
         ArrayList<String>[] mergedMail = new ArrayList[n];
         for (int i = 0; i < n; i++) mergedMail[i] = new ArrayList<>();
         for (Map.Entry<String, Integer> it : map.entrySet()) {
             int node = ds.findUltimateParent(it.getValue());
             mergedMail[node].add(it.getKey());
         }
-
-        // Format the result: Sort emails and add account names
         List<List<String>> result = new ArrayList<>();
         for (int i = 0; i < n; i++) {
             if (mergedMail[i].isEmpty()) continue;
             Collections.sort(mergedMail[i]);
             List<String> temp = new ArrayList<>();
-            temp.add(accounts.get(i).get(0)); // Get name from original account
+            temp.add(accounts.get(i).get(0));
             temp.addAll(mergedMail[i]);
             result.add(temp);
         }
