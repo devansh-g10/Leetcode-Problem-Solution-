@@ -135,6 +135,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -285,6 +286,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3483-unique-3-digit-even-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3731-find-missing-elements/) | Easy |
@@ -599,6 +601,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3731-find-missing-elements/) | Easy |
