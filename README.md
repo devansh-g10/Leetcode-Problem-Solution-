@@ -201,6 +201,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0547-number-of-provinces](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0684-redundant-connection/) | Medium |
+| [0685-redundant-connection-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0721-accounts-merge](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0721-accounts-merge/) | Medium |
 | [0841-keys-and-rooms](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0841-keys-and-rooms/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -235,6 +236,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0547-number-of-provinces](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0684-redundant-connection/) | Medium |
+| [0685-redundant-connection-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0721-accounts-merge](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0721-accounts-merge/) | Medium |
 | [0841-keys-and-rooms](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0841-keys-and-rooms/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -770,6 +772,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0684-redundant-connection/) | Medium |
+| [0685-redundant-connection-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0721-accounts-merge](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0721-accounts-merge/) | Medium |
 | [1020-number-of-enclaves](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -788,6 +791,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0210-course-schedule-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0684-redundant-connection/) | Medium |
+| [0685-redundant-connection-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0841-keys-and-rooms](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0841-keys-and-rooms/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
