@@ -114,6 +114,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [2942-find-words-containing-character](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2942-find-words-containing-character/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -424,6 +425,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [1927-sum-game](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2942-find-words-containing-character](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
