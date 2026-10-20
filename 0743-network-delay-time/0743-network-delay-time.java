@@ -1,35 +1,52 @@
+
+import java.util.Arrays;
+
 class Solution {
     public int networkDelayTime(int[][] times, int n, int k) {
-        List<List<int[]>> adj = new ArrayList();
-        for (int i = 0; i < n + 1; i++)
-            adj.add(new ArrayList<>());
-        for (int[] time : times) {
-            int u = time[0];
-            int v = time[1];
-            int w = time[2];
-            adj.get(u).add(new int[] { w, v });
+        int[][] graph = new int[n + 1][n + 1];
+
+        for (int[] row : graph) {
+            Arrays.fill(row, -1);
         }
-        int[] weights = new int[n + 1];
-        Arrays.fill(weights, Integer.MAX_VALUE);
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> Integer.compare(a[0], b[0]));
-        weights[k] = 0;
-        pq.offer(new int[] { 0, k });
-        while (!pq.isEmpty()) {
-            int[] current = pq.poll();
 
-            int weight = current[0];
-            int node = current[1];
+        for (int[] time : times) {
+            graph[time[0]][time[1]] = time[2];
+        }
 
-            if (weight > weights[node])
-                continue;
+        int[] dist = new int[n + 1];
+        boolean[] visited = new boolean[n + 1];
 
-            for (int[] neighbour : adj.get(node)) {
-                int neighbourWeight = neighbour[0];
-                int neighbourNode = neighbour[1];
+        Arrays.fill(dist, Integer.MAX_VALUE);
+        dist[k] = 0;
 
-                if (weight + neighbourWeight < weights[neighbourNode]) {
-                    weights[neighbourNode] = weight + neighbourWeight;
-                    pq.offer(new int[] { weight + neighbourWeight, neighbourNode });
+        for (int i = 1; i <= n; i++) {
+            int node = -1;
+
+            // Find the unvisited node with minimum distance
+            for (int j = 1; j <= n; j++) {
+                if (!visited[j]
+                        && (node == -1 || dist[j] < dist[node])) {
+                    node = j;
+                }
+            }
+
+            // Remaining nodes are unreachable
+            if (node == -1 || dist[node] == Integer.MAX_VALUE) {
+                return -1;
+            }
+
+            visited[node] = true;
+
+            // Relax outgoing edges
+            for (int neighbor = 1; neighbor <= n; neighbor++) {
+                if (graph[node][neighbor] != -1
+                        && !visited[neighbor]) {
+                    int newDist =
+                            dist[node] + graph[node][neighbor];
+
+                    if (newDist < dist[neighbor]) {
+                        dist[neighbor] = newDist;
+                    }
                 }
             }
         }
@@ -37,10 +54,7 @@ class Solution {
         int maxTime = 0;
 
         for (int i = 1; i <= n; i++) {
-            if (weights[i] == Integer.MAX_VALUE)
-                return -1;
-
-            maxTime = Math.max(maxTime, weights[i]);
+            maxTime = Math.max(maxTime, dist[i]);
         }
 
         return maxTime;
