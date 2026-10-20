@@ -208,6 +208,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0684-redundant-connection](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0684-redundant-connection/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0721-accounts-merge](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0721-accounts-merge/) | Medium |
+| [0743-network-delay-time](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0743-network-delay-time/) | Medium |
 | [0841-keys-and-rooms](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0841-keys-and-rooms/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1020-number-of-enclaves/) | Medium |
@@ -243,6 +244,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0684-redundant-connection](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0684-redundant-connection/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0721-accounts-merge](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0721-accounts-merge/) | Medium |
+| [0743-network-delay-time](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0743-network-delay-time/) | Medium |
 | [0841-keys-and-rooms](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0841-keys-and-rooms/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0994-rotting-oranges/) | Medium |
@@ -750,6 +752,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0743-network-delay-time/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -808,6 +811,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0547-number-of-provinces](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0684-redundant-connection/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0685-redundant-connection-ii/) | Hard |
+| [0743-network-delay-time](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0743-network-delay-time/) | Medium |
 | [0841-keys-and-rooms](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0841-keys-and-rooms/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -822,6 +826,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0743-network-delay-time/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
@@ -927,4 +932,8 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
