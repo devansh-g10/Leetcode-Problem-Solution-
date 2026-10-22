@@ -155,6 +155,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3876-construct-uniform-parity-array-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
