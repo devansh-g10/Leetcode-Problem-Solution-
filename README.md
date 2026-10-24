@@ -375,6 +375,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2029-stone-game-ix/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
+| [2409-count-days-spent-together](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2409-count-days-spent-together/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3025-find-the-number-of-ways-to-place-people-i/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -434,6 +435,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [1871-jump-game-vii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1871-jump-game-vii/) | Medium |
 | [1927-sum-game](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2409-count-days-spent-together](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2409-count-days-spent-together/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
