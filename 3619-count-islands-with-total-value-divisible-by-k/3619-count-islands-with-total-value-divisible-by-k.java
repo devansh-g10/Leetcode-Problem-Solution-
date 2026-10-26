@@ -1,26 +1,43 @@
 class Solution {
     public int countIslands(int[][] grid, int k) {
         int m = grid.length, n = grid[0].length;
-        int ans = 0;
+        int count = 0;
+        int[] dx = {-1, 1, 0, 0};
+        int[] dy = {0, 0, -1, 1};
+        int[] q = new int[m * n];
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-                if (grid[i][j] > 0) {
-                    long s = dfs(grid, i, j);
-                    if (s % k == 0) ans++;
+                if (grid[i][j] == 0) {
+                    continue;
+                }
+                int front = 0, rear = 0;
+                long sum = 0;
+                q[rear++] = i * n + j;
+                sum += grid[i][j];
+                grid[i][j] = 0;
+                while (front < rear) {
+                    int pos = q[front++];
+                    int x = pos / n;
+                    int y = pos % n;
+
+                    for (int dir = 0; dir < 4; dir++) {
+                        int nx = x + dx[dir];
+                        int ny = y + dy[dir];
+
+                        if (nx >= 0 && nx < m && ny >= 0 && ny < n && grid[nx][ny] > 0) {
+                            sum += grid[nx][ny];
+                            q[rear++] = nx * n + ny;
+                            grid[nx][ny] = 0;
+                        }
+                    }
+                }
+
+                if (sum % k == 0) {
+                    count++;
                 }
             }
         }
-        return ans;
-    }
-    private long dfs(int[][] grid, int i, int j) {
-        int m = grid.length, n = grid[0].length;
-        if (i < 0 || i >= m || j < 0 || j >= n || grid[i][j] == 0) return 0;
-        long sum = grid[i][j];
-        grid[i][j] = 0;
-        sum += dfs(grid, i + 1, j);
-        sum += dfs(grid, i - 1, j);
-        sum += dfs(grid, i, j + 1);
-        sum += dfs(grid, i, j - 1);
-        return sum;
+
+        return count;
     }
 }
