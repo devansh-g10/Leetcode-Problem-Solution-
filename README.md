@@ -143,6 +143,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -231,6 +232,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3310-remove-methods-from-project](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -271,6 +273,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -732,6 +735,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -826,6 +830,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
