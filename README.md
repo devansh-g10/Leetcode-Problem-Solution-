@@ -218,6 +218,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0743-network-delay-time](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0841-keys-and-rooms/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -258,6 +259,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0743-network-delay-time](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0841-keys-and-rooms/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1020-number-of-enclaves/) | Medium |
@@ -284,6 +286,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0141-linked-list-cycle](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0721-accounts-merge](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0721-accounts-merge/) | Medium |
 | [0740-delete-and-earn](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0740-delete-and-earn/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -510,6 +513,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0543-diameter-of-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1325-delete-leaves-with-a-given-value](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -540,6 +544,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0543-diameter-of-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1325-delete-leaves-with-a-given-value](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
