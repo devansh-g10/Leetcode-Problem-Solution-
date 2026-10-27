@@ -439,6 +439,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [1021-remove-outermost-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -600,6 +601,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0740-delete-and-earn](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0740-delete-and-earn/) | Medium |
 | [0877-stone-game](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1140-stone-game-ii/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1340-jump-game-v/) | Hard |
 | [1563-stone-game-v](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1563-stone-game-v/) | Hard |
@@ -973,4 +975,8 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0743-network-delay-time/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1631-path-with-minimum-effort/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
