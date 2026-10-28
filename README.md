@@ -429,6 +429,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0022-generate-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0079-word-search](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0079-word-search/) | Medium |
+| [0091-decode-ways](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0257-binary-tree-paths/) | Easy |
@@ -589,6 +590,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0062-unique-paths](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0070-climbing-stairs/) | Easy |
+| [0091-decode-ways](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0174-dungeon-game](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0198-house-robber/) | Medium |
