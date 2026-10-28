@@ -158,6 +158,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -566,6 +567,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -620,6 +622,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3700-number-of-zigzag-arrays-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -745,6 +748,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
