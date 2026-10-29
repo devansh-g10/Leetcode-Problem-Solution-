@@ -41,6 +41,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0035-search-insert-position](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0040-combination-sum-ii/) | Medium |
+| [0045-jump-game-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0046-permutations/) | Medium |
 | [0063-unique-paths-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0078-subsets](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0078-subsets/) | Medium |
@@ -589,6 +590,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0045-jump-game-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0045-jump-game-ii/) | Medium |
 | [0062-unique-paths](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0070-climbing-stairs/) | Easy |
@@ -752,6 +754,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0045-jump-game-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
