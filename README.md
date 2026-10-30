@@ -144,6 +144,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -625,6 +626,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3524-find-x-value-of-array-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
