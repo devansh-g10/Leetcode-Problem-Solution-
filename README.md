@@ -477,6 +477,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3838-weighted-word-mapping](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -810,6 +811,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -879,12 +881,14 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0743-network-delay-time/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
