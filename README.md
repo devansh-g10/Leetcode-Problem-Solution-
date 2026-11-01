@@ -57,6 +57,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0204-count-primes](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0204-count-primes/) | Medium |
 | [0322-coin-change](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0322-coin-change/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0494-target-sum/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -376,6 +377,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0227-basic-calculator-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0279-perfect-squares/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0633-sum-of-square-numbers/) | Medium |
