@@ -157,6 +157,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3691-maximum-total-subarray-value-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3731-find-missing-elements/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -418,6 +419,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3658-gcd-of-odd-and-even-sums](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
