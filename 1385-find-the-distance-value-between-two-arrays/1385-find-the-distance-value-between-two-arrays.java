@@ -1,5 +1,16 @@
 class Solution {
     public int findTheDistanceValue(int[] arr1, int[] arr2, int d) {
-        return (int) Arrays.stream(arr1).filter(a -> Arrays.stream(arr2).allMatch(b -> Math.abs(a - b) > d)).count();
+           int c = 0;
+        for(int n : arr1){
+            if(isValid(n, arr2, d)) c++;
+        }
+        return c;
+    }
+    boolean isValid(int n, int[] arr, int d){
+        for(int e : arr){
+            if(Math.abs(e - n) <= d) return false;
+        }
+        return true;
+
     }
 }
