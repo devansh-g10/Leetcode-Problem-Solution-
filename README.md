@@ -101,6 +101,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [1840-maximum-building-height](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1872-stone-game-viii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1872-stone-game-viii/) | Hard |
+| [1882-process-tasks-using-servers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2029-stone-game-ix/) | Medium |
@@ -827,6 +828,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0743-network-delay-time](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0743-network-delay-time/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
