@@ -78,6 +78,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [1140-stone-game-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1140-stone-game-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -234,6 +235,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1306-jump-game-iii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1306-jump-game-iii/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -278,6 +280,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [1020-number-of-enclaves](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1306-jump-game-iii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1306-jump-game-iii/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1345-jump-game-iv](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1345-jump-game-iv/) | Hard |
@@ -776,6 +779,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [1091-shortest-path-in-binary-matrix](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -854,6 +858,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2029-stone-game-ix](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -871,6 +876,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0721-accounts-merge](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0721-accounts-merge/) | Medium |
 | [1020-number-of-enclaves](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
