@@ -113,6 +113,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [2126-destroying-asteroids](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2498-frog-jump-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2498-frog-jump-ii/) | Medium |
@@ -314,6 +315,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -412,6 +414,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2029-stone-game-ix/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2409-count-days-spent-together](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2409-count-days-spent-together/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3025-find-the-number-of-ways-to-place-people-i/) | Medium |
@@ -761,6 +764,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | ------- | ------- |
 | [0204-count-primes](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0204-count-primes/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -866,6 +870,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [1267-count-servers-that-communicate](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2029-stone-game-ix](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2029-stone-game-ix/) | Medium |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -1040,4 +1045,12 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 <!---LeetCode Topics End-->
