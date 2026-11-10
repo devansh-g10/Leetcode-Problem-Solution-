@@ -160,6 +160,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3665-twisted-mirror-path-count](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3731-find-missing-elements/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -652,6 +653,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
