@@ -441,6 +441,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3765-complete-prime-number](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3765-complete-prime-number/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3870-count-commas-in-range](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -825,6 +826,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3691-maximum-total-subarray-value-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
