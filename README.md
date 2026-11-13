@@ -66,6 +66,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0540-single-element-in-a-sorted-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0665-non-decreasing-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0665-non-decreasing-array/) | Medium |
 | [0704-binary-search](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0704-binary-search/) | Easy |
 | [0721-accounts-merge](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0721-accounts-merge/) | Medium |
 | [0740-delete-and-earn](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0740-delete-and-earn/) | Medium |
