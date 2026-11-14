@@ -143,6 +143,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -625,6 +626,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [2747-count-zero-request-servers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -721,6 +723,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [2574-left-and-right-sum-differences](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
