@@ -487,6 +487,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [1871-jump-game-vii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1871-jump-game-vii/) | Medium |
 | [1927-sum-game](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2409-count-days-spent-together/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2942-find-words-containing-character/) | Easy |
@@ -849,6 +850,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1260-shift-2d-grid/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
