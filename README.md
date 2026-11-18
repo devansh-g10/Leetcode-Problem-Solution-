@@ -491,6 +491,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [2243-calculate-digit-sum-of-a-string](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2409-count-days-spent-together/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [2942-find-words-containing-character](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
