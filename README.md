@@ -122,6 +122,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [2333-minimum-sum-of-squared-difference](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2498-frog-jump-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2498-frog-jump-ii/) | Medium |
 | [2540-minimum-common-value](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2540-minimum-common-value/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2747-count-zero-request-servers/) | Medium |
@@ -703,6 +704,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [2126-destroying-asteroids](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -836,6 +838,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2498-frog-jump-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2498-frog-jump-ii/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
