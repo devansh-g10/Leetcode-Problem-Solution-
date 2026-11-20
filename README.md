@@ -137,6 +137,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3025-find-the-number-of-ways-to-place-people-i/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -667,6 +668,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1871-jump-game-vii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1872-stone-game-viii/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -710,6 +712,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3025-find-the-number-of-ways-to-place-people-i/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
