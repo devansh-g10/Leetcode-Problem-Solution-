@@ -150,6 +150,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3331-find-subtree-sizes-after-changes](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -437,6 +438,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3312-sorted-gcd-pair-queries](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -641,6 +643,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -766,6 +769,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3025-find-the-number-of-ways-to-place-people-i/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -801,6 +805,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [2183-count-array-pairs-divisible-by-k](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3765-complete-prime-number](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3765-complete-prime-number/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
