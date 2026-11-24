@@ -59,6 +59,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [0204-count-primes](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0204-count-primes/) | Medium |
 | [0322-coin-change](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0322-coin-change/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0486-predict-the-winner/) | Medium |
@@ -881,6 +882,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0743-network-delay-time](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0743-network-delay-time/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1631-path-with-minimum-effort/) | Medium |
