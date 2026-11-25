@@ -37,6 +37,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0035-search-insert-position/) | Easy |
@@ -372,6 +373,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0148-sort-list/) | Medium |
@@ -698,6 +700,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0018-4sum/) | Medium |
 | [0148-sort-list](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0148-sort-list/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
