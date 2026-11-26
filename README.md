@@ -441,6 +441,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3312-sorted-gcd-pair-queries](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -877,6 +878,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [1260-shift-2d-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/1260-shift-2d-grid/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [3360-stone-removal-game](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
