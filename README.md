@@ -190,6 +190,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3886-sum-of-sortable-integers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -697,6 +698,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -872,6 +874,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
