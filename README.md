@@ -191,6 +191,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3903-smallest-stable-index-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -739,6 +740,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3731-find-missing-elements](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -875,6 +877,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -900,6 +903,7 @@ You can explore the code files, run them in your preferred IDE, and use them for
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/devansh-g10/Leetcode-Problem-Solution-/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
